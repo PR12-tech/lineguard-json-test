@@ -5,7 +5,7 @@
     "name": "Aarav Sharma",
     "email": "aarav@example.com",
     "phone": "9876543210",
-    "city": "Pune"
+    "location": "Pune"
   },
   {
     "customer_id": 2,
