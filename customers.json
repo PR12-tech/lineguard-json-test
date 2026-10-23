@@ -4,6 +4,7 @@
     "customer_id": 1,
     "name": "Aarav Sharma",
     "email": "aarav@example.com",
+    "phone": "9876543210",
     "city": "Pune"
   },
   {
