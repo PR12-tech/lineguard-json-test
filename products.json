@@ -4,7 +4,7 @@
     "product_id": 1,
     "name": "Laptop",
     "category": "Electronics",
-    "price": 55000,
+    "price": 55000
   },
   {
     "product_id": 2,
@@ -26,5 +26,12 @@
     "category": "Electronics",
     "price": 15000,
     "stock": 15
+  },
+  {
+    "product_id": 5,
+    "name": "Headphones",
+    "category": "Accessories",
+    "price": 3500,
+    "stock": 30
   }
 ]
